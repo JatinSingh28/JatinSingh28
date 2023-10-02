@@ -101,7 +101,7 @@ Maintaining a perpetual sense of curiosity and consistently venturing into uncha
 <a href="https://drive.google.com/file/d/1_lF1p9paQDvlcaY8PAfloR_FJQu5adpT/view" target="_blank">
 <img src=https://img.shields.io/badge/Resume-8A2BE2.svg?&style=for-the-badge&logo=white alt=github style="margin-bottom: 5px;" />
 </a>
-
+<br/>
 <br/>
 <img align="center"src = "img/animephone-animecute.gif" width = "500"/>
 
