@@ -82,6 +82,7 @@ Maintaining a perpetual sense of curiosity and consistently venturing into uncha
 
 ---
 
+<div>
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
@@ -104,7 +105,6 @@ Maintaining a perpetual sense of curiosity and consistently venturing into uncha
 <br/>
 <br/>
 <img align="center"src = "img/animephone-animecute.gif" width = "500"/>
-
 </div>
 
 </div>  
