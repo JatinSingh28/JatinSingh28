@@ -34,7 +34,7 @@ My Profile v3.0
 Username: Jatin Singh Sagoi.
 Who_Am_I: Machine Learning Engineer, Full Stack Developer, Competitive Programmer
 Languages: C++, Python, JS.
-Ask_Me_About: ["Machine Learning","Web Development","Compitive Programming"]
+Ask_Me_About: ["Machine Learning", "Web Development","Competitive Programming"]
 Technologies: {
     Machine_Learning:["Data Analysis", "Mathematics and Statistics", "Deep Learning", "Transfer Learning", "EDA", "CNN", "OpenCV", "Computer vision"],
     Libraries:["Pandas", "NumPy", "Scikit-Learn", "TensorFlow", "Keras","Seaborn", "Matplotlib"],
