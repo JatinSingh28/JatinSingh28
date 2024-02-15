@@ -108,11 +108,5 @@ Maintaining a perpetual sense of curiosity and consistently venturing into uncha
 </div>
 
 </div>  
-<br>
-<div>
-<h2 align="center">Thank you for visiting 🙋🏻‍♂️</h2>
-<div align="center">
-    <img src="./img/hatsunemiku-miku-last-gif.gif" width="500"/>
-  </div>
 <br> 
 <br>
