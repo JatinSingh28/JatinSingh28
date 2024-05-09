@@ -96,7 +96,7 @@ Maintaining a perpetual sense of curiosity and consistently venturing into uncha
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://under.construction.in" target="_blank">
+<a href="https://jatins-organization.gitbook.io/jatin-portfolio" target="_blank">
 <img src=https://img.shields.io/badge/Website-228B22.svg?&style=for-the-badge&logo=white alt=github style="margin-bottom: 5px;" />
 
 <a href="https://drive.google.com/file/d/1_lF1p9paQDvlcaY8PAfloR_FJQu5adpT/view" target="_blank">
