@@ -99,7 +99,7 @@ Maintaining a perpetual sense of curiosity and consistently venturing into uncha
 <a href="https://jatins-organization.gitbook.io/jatin-portfolio" target="_blank">
 <img src=https://img.shields.io/badge/Website-228B22.svg?&style=for-the-badge&logo=white alt=github style="margin-bottom: 5px;" />
 
-<a href="https://drive.google.com/file/d/1_lF1p9paQDvlcaY8PAfloR_FJQu5adpT/view" target="_blank">
+<a href="https://drive.google.com/file/d/1WZOt8aWn434YeiiuoMk5bdgaLiifsnTR/view" target="_blank">
 <img src=https://img.shields.io/badge/Resume-8A2BE2.svg?&style=for-the-badge&logo=white alt=github style="margin-bottom: 5px;" />
 </a>
 <br/>
